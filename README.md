@@ -1,24 +1,23 @@
-# README
+Mod 3 Final Project
+Zev Spilman & Joseph Harwood
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+QUIZALCOATL: DESCRIPTION
+Welcome to our Snake Trivia App! Sign in and the game will initialize. You will receive a trivia question. Take some time to thing about the answer,  then eat the letters that spell it out. Be careful though, crashing into a wall or your tail will cause you to loose a life. In addition, every time you eat a letter your tail will grow and your speed will increase.
 
-Things you may want to cover:
+INSTALL INSTRUCTIONS
+Clone down this repo and the frontend repo
+Run "npm start"
+Run "rake db:migrate"
+Run "rake db:seed"
+Open up a rails server with "rails s"
+In your browser, visit your local host at the path '/login' to get started
 
-* Ruby version
+CONTRIBUTORS GUIDE
+Fork and clone this repo
+Create your feature branch (git checkout -b my-new-feature)
+Commit your changes (git commit -am 'Add some feature')
+Push to the branch (git push origin my-new-feature)
+Create a new Pull Request
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*******See Frontend Repo***********
+https://github.com/jbharwood/cinematch-frontend
